@@ -1,7 +1,7 @@
 # Eric's Portfolio
 Different projects I have done & keep tracking of my progress.
 
-# [Tamjai Samgor Loyalty Program Evaluation]()
+# [Tamjai Samgor Loyalty Program Evaluation](https://github.com/iuchifeieric-portfolio/TamJai-Samgor-Loyalty-Program-Evaluation/tree/main)
 
 This is a group project to evaluate the current problems of TamJai's loyalty program and propose possible solutions to resolve those problems and also come up with innovative e-CRM stategies to further improve the loyalty program.
 
