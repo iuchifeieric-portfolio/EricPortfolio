@@ -1,5 +1,6 @@
 # Eric's Portfolio
 Different projects I have done & keep tracking of my progress.
+> Keep Updating...
 
 # [Tamjai Samgor Loyalty Program Evaluation](https://github.com/iuchifeieric-portfolio/TamJai-Samgor-Loyalty-Program-Evaluation/tree/main)
 > Click the title to see more...
