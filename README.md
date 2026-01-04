@@ -23,4 +23,6 @@ This is a group project to evaluate the current problems of TamJai's loyalty pro
 # [Flight Infomation Database Creation & Management]()
 # [HK Flag Day Volunteer Allocation System]()
 # [Yahoo Finance Web Scrapping]()
+![](image/YahooFinance/tslaGraph.png)
+![](image/YahooFinance/gmeGraph.png)
 # [Dashboards with IBM Cognos]()
