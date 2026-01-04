@@ -23,6 +23,16 @@ This is a group project to evaluate the current problems of TamJai's loyalty pro
 # [Flight Infomation Database Creation & Management]()
 # [HK Flag Day Volunteer Allocation System]()
 # [Yahoo Finance Web Scrapping]()
+This is a project to extract and visualize the stock data by using yfinance API, and also extract the revenue data for Tesla and GME by web scraping.
+- Define a Function that Makes a Graph.
+- Use yfinance to Extract Stock Data.
+- Use Webscraping to Extract Tesla Revenue Data.
+- Plot Stock Graphs for Tesla & GME.
+<br><br>
+
+## Tesla Graph - Share Price & Revenue
 ![](image/YahooFinance/tslaGraph.png)
+
+## GME Graph - Share Price & Revenue
 ![](image/YahooFinance/gmeGraph.png)
 # [Dashboards with IBM Cognos]()
