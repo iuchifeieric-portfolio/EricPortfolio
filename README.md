@@ -28,7 +28,7 @@ This is a project to extract and visualize the stock data by using yfinance API,
 - Use yfinance to Extract Stock Data.
 - Use Webscraping to Extract Tesla Revenue Data.
 - Plot Stock Graphs for Tesla & GME.
-<br><br>
+<br>
 
 ## Tesla Graph - Share Price & Revenue
 ![](image/YahooFinance/tslaGraph.png)
